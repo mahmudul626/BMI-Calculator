@@ -6,10 +6,10 @@ int main() {
     
     //input part
     
-    int foot,inc,weight,hight;
+    int feet,inc,weight,hight;
     float meter,sqr,bmi;
-    printf("write your hight s foot :");
-    scanf("%d",&foot);
+    printf("write your hight s feet :");
+    scanf("%d",&feet);
     printf("write your hight s inc :");
     scanf("%d",&inc);
     printf("write your weight :");
@@ -17,7 +17,7 @@ int main() {
     
     //calculating part
     
-    hight = foot * 12 + inc;
+    hight = feet * 12 + inc;
     meter = hight * 0.0254;
     sqr = meter * meter;
     bmi = weight / sqr;
