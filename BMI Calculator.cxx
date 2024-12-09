@@ -1,6 +1,6 @@
 #include <stdio.h>
-/* I'm Md. Mahmudul Hasan Mabud.
-8 and 9th December 2024, at 12:28 am. i finished my simple practice project BMI calculator  */
+
+//Simple BMI Calculator Created By Md. Mahmudul Hasan Mabud 
 
 int main() {
     
